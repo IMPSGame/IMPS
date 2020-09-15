@@ -52,4 +52,5 @@ div {border:solid thin black; margin: 0.5em; padding: 0.5em; border-radius: 1em;
 .outer {margin: auto; max-width: 750px; background: rgb(196, 18, 48); text-align:center; font-family:"Bookman Old Style";
 }
 @viewport { width: 640;}
-    
+	
+.contact {display: block; border: dotted black 3px; border-radius: 5px;}
