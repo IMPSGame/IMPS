@@ -35,6 +35,11 @@ nav li a:hover {
 
 header {text-align:center;}
 
+img {
+	max-width: 100%;
+	height: auto;
+}
+
 h2{font-family:"TW Cen MT"; font-size: 36px; color:#c41230; -webkit-text-stroke: 1px black; text-shadow: 3px 3px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000; text-align: center;}
 
 body {font-family:"Bookman Old Style"; font-size: 18px;}
